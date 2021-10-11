@@ -1,0 +1,12 @@
+{
+    "name": "testing_nodered_banana",
+    "description": "test des leds sur le banana",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
